@@ -1,32 +1,28 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This project's purpose is to help me understand how to use the Rust programming language.
 
-{Provide a description of the software that you wrote to demonstrate the Rust language.}
+This Project is a simple todo list. It keeps track of a list of tasks, lets you complete them, remove them, add them, and save them. there is also a place to save and exit the program.
 
-{Describe your purpose for writing this software.}
+I wrote this code to be a better programmer.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+### [Software Demo Video](https://youtu.be/sLsZgWlq0pU)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used visual studio code to complete this project.
 
-{Describe the programming language that you used and any libraries.}
+I used the Rust programming language and the fs io and path libraries.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Claude](https://claude.ai/)
+- [ChatGPT](https://chatgpt.com/?oai-dm=1)
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
 
-- Item 1
-- Item 2
-- Item 3
+- Simplify the code a little
+- Make more options for the menu
+- GUI
